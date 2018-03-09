@@ -1,2 +1,2 @@
 <?php
-echo "Hello Word!";
+echo "Hello World! My first code on GitHub";
